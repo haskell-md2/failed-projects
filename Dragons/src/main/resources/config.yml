@@ -1,0 +1,13 @@
+world_name: "world"
+max_players: 10
+arens:
+  arena:
+      sing_pos:
+        x: 1054
+        y: 5
+        z: -1384
+      dragons:
+        d1:
+          x: 1054
+          y: 5
+          z: -1384
